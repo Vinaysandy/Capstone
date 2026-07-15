@@ -1,0 +1,11 @@
+Patient_ID,Patient_Name,Age,Gender,Blood_Group,Phone,Email,Disease,Medical_History,Current_Medication,Allergies,Last_Visit,Doctor_Assigned,Emergency_Contact
+P001,Ramesh Kumar,68,Male,B+,9876543210,ramesh@gmail.com,Chronic Kidney Disease,Hypertension since 2018; CKD Stage 3,Amlodipine 5mg,None,2026-06-20,Dr. Priya Sharma,Suresh Kumar - 9876500011
+P002,Lakshmi Devi,54,Female,O+,9876543211,lakshmi@gmail.com,Type 2 Diabetes,Diabetes diagnosed in 2016,Metformin 500mg,Penicillin,2026-07-05,Dr. Arjun Rao,Anitha Devi - 9876500012
+P003,Mohan Reddy,45,Male,A+,9876543212,mohan@gmail.com,Hypertension,High BP since 2020,Telmisartan 40mg,None,2026-07-01,Dr. Sneha Patel,Rajesh Reddy - 9876500013
+P004,Anjali Sharma,30,Female,AB+,9876543213,anjali@gmail.com,Asthma,Childhood asthma,Salbutamol Inhaler,Dust,2026-06-15,Dr. Vivek Nair,Sunil Sharma - 9876500014
+P005,Ravi Prakash,72,Male,O-,9876543214,ravi@gmail.com,Heart Disease,Coronary artery disease,Aspirin 75mg,None,2026-07-08,Dr. Meera Iyer,Deepak Prakash - 9876500015
+P006,Pooja Singh,26,Female,B+,9876543215,pooja@gmail.com,Migraine,Frequent migraine attacks,Sumatriptan,None,2026-07-03,Dr. Kiran Joshi,Neha Singh - 9876500016
+P007,Farhan Ali,38,Male,A-,9876543216,farhan@gmail.com,Fatty Liver,Grade 1 Fatty Liver,Vitamin E,None,2026-06-28,Dr. Amit Verma,Imran Ali - 9876500017
+P008,Kavitha Rao,61,Female,O+,9876543217,kavitha@gmail.com,Arthritis,Knee osteoarthritis,Calcium Supplements,None,2026-07-10,Dr. Nisha Kapoor,Suresh Rao - 9876500018
+P009,John Peter,49,Male,B-,9876543218,john@gmail.com,Thyroid Disorder,Hypothyroidism,Levothyroxine,None,2026-06-22,Dr. Rahul Menon,Mary Peter - 9876500019
+P010,Meena Krishnan,35,Female,A+,9876543219,meena@gmail.com,Anemia,Iron deficiency anemia,Iron Tablets,None,2026-07-11,Dr. Asha Kulkarni,Raj Krishnan - 9876500020
