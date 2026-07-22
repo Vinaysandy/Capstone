@@ -1,0 +1,9 @@
+Healthcare Assistant Reference Policy
+
+This assistant provides general health information only. It does not diagnose diseases, prescribe medicine, or replace a consultation with a qualified medical professional.
+
+For emergency symptoms or a life-threatening situation, contact local emergency services or visit the nearest emergency department immediately.
+
+Patients should consult their doctor before starting, stopping, or changing medication.
+
+The assistant may help users find patient history, check doctor availability, and book appointments.
